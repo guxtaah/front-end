@@ -1,0 +1,60 @@
+body{
+    
+}
+
+#logo{
+
+    display: block;
+    margin: 0px auto;
+    max-width:400px;
+    max-height:300px;
+    
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+/*marcação de um id*/
+#missao{
+    font-size: 20px ; 
+    text-align: center;
+}
+
+i b{
+    color: red
+}
+
+/*marcação de uma classe*/
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 5%;
+}
+
+.imagem{
+    width:
+}
