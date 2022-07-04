@@ -1,106 +1,48 @@
-
-#logo{
-
-    display: block;
-    margin: 0px auto;
-    max-width:400px;
-    max-height:300px;
-    
+#banner {
+	width:100%;
 }
 
 .principal{
-    background: #CCCCCC;
-    padding: 30px;
+	background: #CCCCCC;
+	padding: 30px;
 }
 
-.titulo-principal{
-    padding-left: 20px;
+.titulo-principal {
+	padding-left: 20px;
 }
 
-.titulo-centralizado{
-    text-align: center;
+.titulo-centralizado {
+	text-align: center
 }
 
 p {
-    text-align: center;
+	text-align: center;
 }
 
-/*marcação de um id*/
-#missao{
-    font-size: 20px ; 
-    text-align: center;
+#missao {
+	font-size: 20px
 }
 
-i b{
-    color: red
+i, b {
+	color: #FF0000;
 }
 
-/*marcação de uma classe*/
-.itens{
-    font-style: italic;
+.itens {
+	font-style: italic
 }
 
-.beneficios{
-    background: #FFFFFF;
-    padding: 20px;
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
 }
 
-ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 5%;
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
-.imagem{
-    width:30%
-}
-
-footer{
-    
-    padding: 60px 0;
-    text-align: center;
-    background: #2a2828;
-    
-}
-
-.copyrigth{
-    color: white;
-    font-size: 16px;
-    margin: 20px;
-}
-
-header {
-	background: #BBBBBB;
-	padding: 20px 0;
-}
-
-.caixa {
-	position: relative;
-	width: 940px;
-	margin: 0 auto;
-}
-
-nav {
-	position: absolute;
-	top: 110px;
-	right: 0;
-}
-
-nav li {
-	display: inline;
-	margin: 0 0 0 15px;
-}
-
-nav a {
-	text-transform: uppercase;
-	color: #000000;
-	font-weight: bold;
-	font-size: 22px;
-	text-decoration: none;
-}
-
-nav a:hover {
-	color: #C78C19;
-	text-decoration: underline;
+.imagembeneficios {
+	width: 50%;
 }
