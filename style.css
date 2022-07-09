@@ -122,3 +122,56 @@ td, th {
 	border: 1px solid #000000;
 	padding: 8px 15px;
 }
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+.titulo-principal{
+	text-align: center;
+	font-size: 2em;
+	margin: 1em 0 1em;
+	clear: left;
+}
+
+.principal p{
+	margin: 0 0 1em;
+	
+}
+
+.principal b{
+	font-weight: bold;
+}
+
+.principal i{
+	font-style: italic;
+}
+
+.utensilios{
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+.imagembeneficios{
+	width: 60%;
+}
